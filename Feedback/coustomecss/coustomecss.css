@@ -1,0 +1,28 @@
+﻿.footerlinks {
+    color: whitesmoke;
+    text-decoration: none !important;
+}
+.footerlinks:hover {
+    color: darkgoldenrod;
+}
+#footer1 {
+    background-color: black;
+}
+
+#footer2 {
+    color: aliceblue;
+    background-color: black;
+}
+
+.navbar-nav li {
+    margin-right: 10px;
+}
+
+.cover-image {
+    background-image: url('feedback/CoverPage.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 200px; 
+}
+
+
